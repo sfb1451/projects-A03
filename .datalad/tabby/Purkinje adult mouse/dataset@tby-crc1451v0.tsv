@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-			
+# bold indicates required				
+name	Purkinje adult mouse			
+title	Purkinje neuron tracing			
+description	Confocal miscrocopy acquisitions of sagittal slices of adult mouse brain (3-4 months of age) after transsynaptic tracing of Purkinje cell connectivity.			
+crc-project	A03			
+version	latest			
+sample[organism]	NCBITaxon:85055			
+sample[organism-part]	UBERON:0002037			
+keywords	cerebellum	Purkinje cell	presynaptic	motor learning
+license				
+doi				
+homepage				
+last-updated				
